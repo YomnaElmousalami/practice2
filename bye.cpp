@@ -3,3 +3,4 @@
 #include "adoctint.h"
 #include "bdaiface_enums.h"
 #include "activation.h"
+#include "avx2intrin.h"
