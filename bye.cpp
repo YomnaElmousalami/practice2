@@ -4,3 +4,4 @@
 #include "bdaiface_enums.h"
 #include "activation.h"
 #include "aclapi.h"
+#include "avx2intrin.h"
