@@ -2,3 +2,4 @@
 #include "activecf.h"
 #include "adoctint.h"
 #include "bdaiface_enums.h"
+#include "activation.h"
